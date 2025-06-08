@@ -1,0 +1,5 @@
+C:\App\7DTDModInstaller\publish\7DTDModInstaller.exe
+C:\App\7DTDModInstaller\publish\7DTDModInstaller.dll
+C:\App\7DTDModInstaller\publish\7DTDModInstaller.deps.json
+C:\App\7DTDModInstaller\publish\7DTDModInstaller.runtimeconfig.json
+C:\App\7DTDModInstaller\publish\7DTDModInstaller.pdb

@@ -1,0 +1,3 @@
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\publish\7DTDModInstaller.dll
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\publish\7DTDModInstaller.deps.json
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\publish\7DTDModInstaller.pdb

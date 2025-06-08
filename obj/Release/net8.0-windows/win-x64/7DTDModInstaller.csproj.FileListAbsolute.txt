@@ -1,0 +1,14 @@
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\7DTDModInstaller.deps.json
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\7DTDModInstaller.dll
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\7DTDModInstaller.pdb
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.AssemblyInfoInputs.cache
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.AssemblyInfo.cs
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.csproj.CoreCompileInputs.cache
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.dll
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\refint\7DTDModInstaller.dll
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.pdb
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\ref\7DTDModInstaller.dll
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\7DTDModInstaller.exe
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\7DTDModInstaller.runtimeconfig.json
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.genruntimeconfig.cache
