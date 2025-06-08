@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("7DTDModInstaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be3ba400afb4dfdc2ee5acd14532d8ea11505cfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("7DTDModInstaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("7DTDModInstaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

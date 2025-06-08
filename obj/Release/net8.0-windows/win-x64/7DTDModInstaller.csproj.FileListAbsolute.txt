@@ -12,3 +12,4 @@ C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\ref\7DTDModInstaller.
 C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\7DTDModInstaller.exe
 C:\App\7DTDModInstaller\bin\Release\net8.0-windows\win-x64\7DTDModInstaller.runtimeconfig.json
 C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.genruntimeconfig.cache
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\win-x64\7DTDModInstaller.sourcelink.json

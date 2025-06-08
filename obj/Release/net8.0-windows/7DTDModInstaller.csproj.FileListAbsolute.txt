@@ -9,3 +9,7 @@ C:\App\7DTDModInstaller\obj\Release\net8.0-windows\7DTDModInstaller.dll
 C:\App\7DTDModInstaller\obj\Release\net8.0-windows\refint\7DTDModInstaller.dll
 C:\App\7DTDModInstaller\obj\Release\net8.0-windows\7DTDModInstaller.pdb
 C:\App\7DTDModInstaller\obj\Release\net8.0-windows\ref\7DTDModInstaller.dll
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\7DTDModInstaller.exe
+C:\App\7DTDModInstaller\bin\Release\net8.0-windows\7DTDModInstaller.runtimeconfig.json
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\7DTDModInstaller.sourcelink.json
+C:\App\7DTDModInstaller\obj\Release\net8.0-windows\7DTDModInstaller.genruntimeconfig.cache
